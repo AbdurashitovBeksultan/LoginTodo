@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/LoginTodo/static/js/main.b426ef64.js",
+    "index.html": "/LoginTodo/index.html",
+    "main.b426ef64.js.map": "/LoginTodo/static/js/main.b426ef64.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b426ef64.js"
+  ]
+}
