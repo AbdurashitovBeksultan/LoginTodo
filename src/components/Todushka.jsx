@@ -32,7 +32,7 @@ const TodoApp = () => {
   return (
     <Container maxWidth="sm">
       <Typography variant="h4" align="center">
-        TODO
+        TODO LIST
       </Typography>
       <TextField
         label="Новая задача"

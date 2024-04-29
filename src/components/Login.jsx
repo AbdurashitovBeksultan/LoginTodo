@@ -33,7 +33,7 @@ const LoginForm = () => {
 
   return (
     <StyleForm onSubmit={formik.handleSubmit}>
-      <Style>Login</Style>
+      <Style>Login Form</Style>
       <TextField
         label="Имя пользователя"
         variant="outlined"
@@ -86,7 +86,8 @@ width: 510px;
 margin-left: 500px;
 margin-top: 100px;
 padding: 1%;
-background-color: #0e938a;
+background: #0e938a;
+color:white;
 `;
 const Style = styled.h1`
   color:goldenrod; 
